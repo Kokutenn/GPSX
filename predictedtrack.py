@@ -72,7 +72,7 @@ def main():
     
     st.markdown("""
     ### Instructions for Using the App
-    1. **Upload a CSV File** containing `Groundspeed` (knots) and `Heading` (degrees).
+    1. **Upload a CSV File** containing `Groundspeed` (knots) and `Heading` (degrees) or `Track`.
     2. **Enter Initial Coordinates** of the aircraft.
     3. **Enter Time Interval** for the data points.
     4. **Run the Prediction** to generate the trajectory.
